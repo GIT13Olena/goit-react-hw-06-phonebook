@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+@import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
 
 body {
   margin: 0;
